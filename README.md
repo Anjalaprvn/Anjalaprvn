@@ -5,8 +5,6 @@
   <img height="300" src="https://cioafrica.co/wp-content/uploads/2023/03/WiT.jpeg"  />
 </div>
 
-<p style="color: red; font-size: 15px;">Hello</p>
-
 <div align="center">
   <a href="http://www.linkedin.com/in/ANJALA PARVEEN">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo"/>
@@ -40,18 +38,15 @@ I am a passionate developer with a deep interest in software development, proble
 - 📚 **Learning & Exploring**: Always keeping up with the latest technologies and trends in the tech world.
 
 ---
-
 ## 🎯 My Goals  
 - **Short-term**: Contribute to open-source projects and collaborate with like-minded developers.  
 - **Long-term**: Build impactful software that shapes the future of technology and solves real-world problems.
 
 ---
 
-## 📱 Let's Connect!  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- 🦸 [Instagram](https://github.com/your-username)  
-- ✉️ Email: anjalaparveen1203@gmail.com
+## 🔥 My Stats
 
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anjalaprvn&theme=react-dark)
 ---
 
 💬 **"Code is like humor. When you have to explain it, it’s bad."** – Cory House
