@@ -7,6 +7,24 @@
 
 <p style="color: red; font-size: 15px;">Hello</p>
 
+<div align="center">
+  <a href="http://www.linkedin.com/in/SH4N1D">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="WhatsApp logo"  />
+  </a>
+  <a href="mailto:shanidpsha@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo"/>
+  </a>
+  <a href="https://www.kaggle.com/sh4n1d">
+    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Kaggle logo"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/shanidpsha">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="HackerRank logo"/>
+  </a>
+</div>
+
 # 🚀 **Anjala** | Developer & Tech Enthusiast  
 ### 💻 Passionate Developer | 🧩 Problem Solver | 💡 Innovator
 
