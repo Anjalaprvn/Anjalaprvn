@@ -1,4 +1,5 @@
- # <center> Hello, I'm Anjala 👋</center>
+ # <h1 align="center">Hi...👋 Welcome to My GitHub Profile!</h1>
+
 
 <div align="center">
   <img height="300" src="https://cioafrica.co/wp-content/uploads/2023/03/WiT.jpeg"  />
@@ -12,7 +13,7 @@ Welcome to my GitHub profile! I'm passionate about [briefly describe what you do
 
 ## About Me
 
-- 🔭 I’m currently working on [your current project or focus].
+- 🔭 
 - 🌱 I’m learning [technologies, languages, etc.].
 - 👯 I’m looking to collaborate on [project ideas, technologies, etc.].
 - 💬 Ask me about [topics you're knowledgeable in].
