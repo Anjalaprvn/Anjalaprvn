@@ -5,7 +5,7 @@
   <img height="300" src="https://cioafrica.co/wp-content/uploads/2023/03/WiT.jpeg"  />
 </div>
 
-<p style="color: #FF6347; font-size: 30px;">Hello</p>
+<p style="color: #FF6347; font-size: 20px;">Hello</p>
 
 # 🚀 **Anjala** | Developer & Tech Enthusiast  
 ### 💻 Passionate Developer | 🧩 Problem Solver | 💡 Innovator
