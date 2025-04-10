@@ -1,10 +1,10 @@
 # Hello, I'm Anjala 👋
 
 <div align="center">
-  <img height="200" src="https://cioafrica.co/wp-content/uploads/2023/03/WiT.jpeg"  />
+  <img height="300" src="https://cioafrica.co/wp-content/uploads/2023/03/WiT.jpeg"  />
 </div>
 
-<p style="color: #FF6347; font-size: 30px;">Hello, مرحبًا, नमस्ते, こんにちは, നമസ്കാരം , Привет!</p>
+<p style="color: #FF6347; font-size: 30px;">Hello</p>
 
 Welcome to my GitHub profile! I'm passionate about [briefly describe what you do or your field of interest].
 
