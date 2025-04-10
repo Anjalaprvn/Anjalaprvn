@@ -1,4 +1,4 @@
-<center> # Hello, I'm Anjala 👋</center>
+ # <center> Hello, I'm Anjala 👋</center>
 
 <div align="center">
   <img height="300" src="https://cioafrica.co/wp-content/uploads/2023/03/WiT.jpeg"  />
