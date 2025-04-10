@@ -1,6 +1,8 @@
 # Hello, I'm Anjala 👋
 
-https://cioafrica.co/wp-content/uploads/2023/03/WiT.jpeg
+<div align="center">
+  <img height="200" src="https://cioafrica.co/wp-content/uploads/2023/03/WiT.jpeg"  />
+</div>
 
 <p style="color: #FF6347; font-size: 30px;">Hello, مرحبًا, नमस्ते, こんにちは, നമസ്കാരം , Привет!</p>
 
