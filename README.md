@@ -5,6 +5,10 @@
   <img height="300" src="https://cioafrica.co/wp-content/uploads/2023/03/WiT.jpeg"  />
 </div>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 <div align="center">
   <a href="http://www.linkedin.com/in/ANJALA PARVEEN">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo"/>
