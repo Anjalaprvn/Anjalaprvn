@@ -59,6 +59,12 @@ I am a passionate developer with a deep interest in software development, proble
   />
 </p>
 
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anjalaprvn&theme=react-dark&hide_border=true" />
+</p>
+
 
 ## 🔥 GitHub Streak
 
