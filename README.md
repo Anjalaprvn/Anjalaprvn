@@ -49,9 +49,19 @@ I am a passionate developer with a deep interest in software development, proble
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anjalaprvn&theme=react-dark)
 ---
+
+## 🐍 My GitHub Contributions
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Anjalaprvn/Anjalaprvn/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
+
+
 <div align="center">
   <h2>Trophy Case</h2>
-  
   ![Trophies](https://github-profile-trophy.vercel.app/?username=Anjalaprvn&theme=darkhub&row=1)
 </div>
 💬 **"Code is like humor. When you have to explain it, it’s bad."** – Cory House
