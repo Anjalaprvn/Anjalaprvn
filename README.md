@@ -74,5 +74,13 @@ I am a passionate developer with a deep interest in software development, proble
   <img src="https://streak-stats.demolab.com?user=Anjalaprvn&theme=react&hide_border=true" />
 </p>
 
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,js,html,css,mysql,git,docker,vscode,github" />
+
+</p>
+
 
 
