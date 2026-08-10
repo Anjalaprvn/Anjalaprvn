@@ -1,52 +1,95 @@
- # <h1 align="center">Hi...👋 Welcome to My GitHub Profile!</h1>
+<h1 align="center">Hi 👋, I'm Anjala Parveen</h1>
 
+<h3 align="center">💻 Developer | 🧩 Problem Solver | 🚀 Tech Enthusiast</h3>
 
-<div align="center">
-  <img height="300" src="https://cioafrica.co/wp-content/uploads/2023/03/WiT.jpeg"  />
-</div>
+<p align="center">
+  <img src="https://cioafrica.co/wp-content/uploads/2023/03/WiT.jpeg" width="700" alt="Developer Banner"/>
+</p>
 
-
-<div align="center">
-  <a href="http://www.linkedin.com/in/ANJALA PARVEEN">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="WhatsApp logo"  />
+<p align="center">
+  <a href="https://www.linkedin.com/in/anjala-parveen">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:anjalaparveen1203@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-</div>
-
-# 🚀 **Anjala** | Developer & Tech Enthusiast  
-### 💻 Passionate Developer | 🧩 Problem Solver | 💡 Innovator
+</p>
 
 ---
 
-## 🌟 About Me
-I am a passionate developer with a deep interest in software development, problem-solving, and innovation. I enjoy writing clean, efficient code and constantly learning new technologies to enhance my skills. My goal is to build impactful solutions that make a difference in the tech world.
+## 👩‍💻 About Me
 
-🛠️ **Skills & Technologies:**  
-- **Languages**: JavaScript, Python,Java,C, C++, etc.    
-- **Tools**: Git, Docker, AWS, etc.  
-- **Databases**: MySQL,
+I'm a passionate developer interested in **software development, problem-solving, and building practical applications**.
 
----
+I enjoy learning new technologies, improving my coding skills, and turning ideas into useful and user-friendly solutions.
 
-## 🚀 What I Do  
-- 🖥️ **Software Development**: Building web applications, APIs, and full-stack solutions.  
-- 🧠 **Problem-Solving**: Tackling challenging problems with efficient and creative solutions.  
-- 📚 **Learning & Exploring**: Always keeping up with the latest technologies and trends in the tech world.
-
----
-## 🎯 My Goals  
-- **Short-term**: Contribute to open-source projects and collaborate with like-minded developers.  
-- **Long-term**: Build impactful software that shapes the future of technology and solves real-world problems.
+* 💻 Interested in **Web Development & Software Development**
+* 🧠 Enjoy solving **technical and programming problems**
+* 🚀 Exploring modern technologies and development tools
+* 📚 Continuously learning and improving my skills
+* 🤝 Interested in **open-source projects and collaboration**
 
 ---
 
+## 🛠️ Skills & Technologies
 
-## 🐍 My GitHub Contributions
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,c,cpp" />
+</p>
+
+### 🌐 Web Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### ⚙️ Frameworks & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=django,git,docker,vscode,github" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+---
+
+## 🚀 What I Do
+
+| Area               | Description                                            |
+| ------------------ | ------------------------------------------------------ |
+| 💻 Development     | Building web applications, APIs, and software projects |
+| 🧠 Problem Solving | Finding efficient solutions to technical problems      |
+| 🎨 UI Development  | Creating clean and user-friendly interfaces            |
+| 📚 Learning        | Exploring new technologies and development practices   |
+| 🤝 Collaboration   | Working on projects and contributing to open source    |
+
+---
+
+## 🎯 My Goals
+
+### 🌱 Short-Term Goals
+
+* Build more real-world projects
+* Improve my programming and development skills
+* Contribute to open-source projects
+* Learn and work with modern technologies
+
+### 🚀 Long-Term Goals
+
+* Become a strong full-stack developer
+* Build impactful software products
+* Work on challenging real-world problems
+* Continuously grow as a technology professional
+
+---
+
+## 🐍 GitHub Contribution Snake
 
 <p align="center">
   <img
@@ -54,8 +97,8 @@ I am a passionate developer with a deep interest in software development, proble
     alt="GitHub Contribution Snake"
   />
 </p>
----
 
+---
 
 ## 📊 GitHub Stats
 
@@ -68,11 +111,15 @@ I am a passionate developer with a deep interest in software development, proble
 
 ---
 
-## 🏆 GitHub Trophies
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anjalaprvn&theme=darkhub&no-frame=true&margin-w=10" />
+  <img
+    src="https://streak-stats.demolab.com?user=Anjalaprvn&theme=react&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
+
 ---
 
 ## 📈 Contribution Activity
@@ -83,27 +130,46 @@ I am a passionate developer with a deep interest in software development, proble
     alt="Contribution Activity"
   />
 </p>
+
 ---
 
-## 🔥 GitHub Streak
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Anjalaprvn&theme=react&hide_border=true" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Anjalaprvn&theme=darkhub&no-frame=true&margin-w=10"
+    alt="GitHub Trophies"
+  />
 </p>
 
-## 💭 Developer Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
+---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,js,html,css,mysql,git,docker,vscode,github" />
-
+  <img
+    src="https://skillicons.dev/icons?i=python,django,java,js,c,cpp,html,css,mysql,git,docker,vscode,github"
+    alt="Tech Stack"
+  />
 </p>
 
+---
 
+## 💭 Developer Quote
 
+<p align="center">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
+    alt="Developer Quote"
+  />
+</p>
+
+---
+
+<p align="center">
+  ⭐ <b>Thanks for visiting my profile!</b> ⭐
+</p>
+
+<p align="center">
+  <i>Keep learning. Keep building. Keep growing. 🚀</i>
+</p>
