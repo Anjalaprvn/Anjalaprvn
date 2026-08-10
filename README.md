@@ -74,6 +74,13 @@ I am a passionate developer with a deep interest in software development, proble
   <img src="https://streak-stats.demolab.com?user=Anjalaprvn&theme=react&hide_border=true" />
 </p>
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anjalaprvn&show_icons=true&theme=react&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjalaprvn&layout=compact&theme=react&hide_border=true" height="180"/>
+</p>
+
 ## 🛠️ Tech Stack
 
 <p align="center">
