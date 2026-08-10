@@ -54,24 +54,36 @@ I am a passionate developer with a deep interest in software development, proble
     alt="GitHub Contribution Snake"
   />
 </p>
+---
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anjalaprvn&show_icons=true&theme=react&hide_border=true" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anjalaprvn&theme=github_dark"
+    alt="GitHub Stats"
+  />
 </p>
+
+---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Anjalaprvn&theme=darkhub&no-frame=true&margin-w=10" />
 </p>
+---
 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anjalaprvn&theme=react-dark&hide_border=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Anjalaprvn&theme=react-dark&hide_border=true"
+    alt="Contribution Activity"
+  />
 </p>
-
+---
 
 ## 🔥 GitHub Streak
 
