@@ -55,6 +55,12 @@ I am a passionate developer with a deep interest in software development, proble
   />
 </p>
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anjalaprvn&theme=darkhub&no-frame=true&margin-w=10" />
+</p>
+
 ## 📈 Contribution Activity
 
 <p align="center">
