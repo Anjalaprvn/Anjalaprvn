@@ -60,12 +60,6 @@ I am a passionate developer with a deep interest in software development, proble
 </p>
 
 
-<div align="center">
-  <h2>Trophy Case</h2>
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=Anjalaprvn&theme=darkhub&row=1)
-</div>
-💬 **"Code is like humor. When you have to explain it, it’s bad."** – Cory House
-
 ## 🔥 GitHub Streak
 
 <p align="center">
